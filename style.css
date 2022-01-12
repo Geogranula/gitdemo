@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+article {
+  width: 48rem;
+  margin: 0 auto;
+  color:aqua;
+}
